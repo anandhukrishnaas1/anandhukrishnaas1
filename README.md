@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 🤝 I’m looking for help with **Fulstack**
+- 🤝 I’m looking for help with **Fullstack**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/anandhukrishnaas/](https://www.linkedin.com/in/anandhukrishnaas/)
 
