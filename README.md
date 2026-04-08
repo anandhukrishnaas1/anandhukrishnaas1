@@ -8,7 +8,7 @@ Full Stack Developer 🚀 • React • Next.js • Node.js • Firebase • And
   <img src="https://komarev.com/ghpvc/?username=anandhukrishnaas1&label=Profile%20views&color=0e75b6&style=flat" alt="anandhukrishnaas1" />
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -22,7 +22,7 @@ Full Stack Developer 🚀 • React • Next.js • Node.js • Firebase • And
 - 📄 Know about my experiences:  
   👉 https://drive.google.com/file/d/1Ap7E0but8MTkurcjvJKlI5FiU2jXnvqU/view?usp=drive_link  
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -33,7 +33,7 @@ Full Stack Developer 🚀 • React • Next.js • Node.js • Firebase • And
 <a href="https://www.leetcode.com/anandhukrishnaas" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
 </p>
 
----
+
 
 ## 🛠️ Languages and Tools
 
@@ -41,7 +41,7 @@ Full Stack Developer 🚀 • React • Next.js • Node.js • Firebase • And
   <img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,git,linux,figma,arduino" />
 </p>
 
----
+
 
 
 ## 📊 GitHub Stats
@@ -51,7 +51,7 @@ Full Stack Developer 🚀 • React • Next.js • Node.js • Firebase • And
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandhukrishnaas1&theme=radical" height="150"/>
 </p>
 
----
+
 
 ## 💡 Quote
 
