@@ -14,11 +14,9 @@ Full Stack Developer  • React • Next.js • Node.js • Firebase • Android
 
 -  I’m currently working on **Placement Buddy** — a full-stack placement management platform   
 -  All of my projects are available at:  
-   https://www.linkedin.com/in/anandhukrishnaas/  
+   https://www.linkedin.com/in/anandhukrishnaas  
 -  Ask me about **Full Stack Development, Projects, and System Design**  
--  Reach me at **anandhukrishnaas07@gmail.com**  
--  Know about my experiences:  
-   https://drive.google.com/file/d/1Ap7E0but8MTkurcjvJKlI5FiU2jXnvqU/view?usp=drive_link  
+-  Reach me at **anandhukrishnaas07@gmail.com**   
 
 
 
