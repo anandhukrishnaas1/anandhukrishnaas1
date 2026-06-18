@@ -56,5 +56,5 @@ Full Stack Developer  • React • Next.js • Node.js • Firebase • Android
 
 
 <p align="center">
-  ⭐ Building real-world products • 🚀 Learning every day • 💡 Turning ideas into impact
+   Building real-world products •  Learning every day •  Turning ideas into impact
 </p>
